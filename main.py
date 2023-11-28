@@ -10,4 +10,4 @@ async def process_task(request: Request):
     payload = await request.body()
     # Process the payload here
     print('### PAYLOAD', payload)
-    return {"message": "Payload received and processed"}
+    return {"message": "UR MOM"}
